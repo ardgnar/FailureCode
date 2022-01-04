@@ -1,2 +1,2 @@
 # FailureCode
-Code for failure of materials clas
+Code for failure of materials class
